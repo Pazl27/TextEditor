@@ -17,6 +17,6 @@ public class CSMSFontAction extends AbstractAction {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-        mainFrame.getTextArea().setFont(new Font("Comic Sans MS", Font.PLAIN, mainFrame.getFontSize()));
+        mainFrame.getTextArea().setFont(new Font("Comic Sans MS ", Font.PLAIN, mainFrame.getFontSize()));
     }
 }
