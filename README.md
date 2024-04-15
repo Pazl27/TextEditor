@@ -18,4 +18,4 @@ The editor is based on the windows notepad and has some of the same features.
 - little help menu
 
 ## Planned features
-- Copy/Paste functionality
+- [ ] Copy/Paste functionality
